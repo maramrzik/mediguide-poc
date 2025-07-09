@@ -38,8 +38,9 @@ Medication safety is a critical challenge in clinical practice, especially with 
 
 ### 1. Clone the repo
 
-```bash
+
 git clone https://github.com/maramrzik/mediguide-poc.git
 cd mediguide-poc
 
-### 2. make sure you have python 3 and pygame CE installed 
+### 2. make sure you have python 3 and pygame CE installed
+```bash
